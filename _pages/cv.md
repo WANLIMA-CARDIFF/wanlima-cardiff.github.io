@@ -59,6 +59,9 @@ Talks
   
 Service and leadership
 ======
+
+* Member, Chinese Students and Scholars Association UK (CSSAUK)                                   From Feb.2022 - Now
+  * Collaboratively organize academic talks/presentations for undergraduates and postgraduates in UK.
 * Member, Unmanned Aerial Vehicle(UAV) Club of College, Hangzhou, China                   Sep.2016
   * Due to familiar with the principle of UAV, our team coordinated with 94936 Troop in Hangzhou City to hold an activity to promulgate science and technology of  UAV for nearly 100 primary school students. 
 * Member, Student Union of Our College, Hangzhou, China                                        Nov. 2015
