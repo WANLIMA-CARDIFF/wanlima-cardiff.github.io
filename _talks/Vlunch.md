@@ -1,10 +1,10 @@
 ---
-title: "ICASSP Talk"
+title: "Vlunch Talk"
 collection: talks
 type: "Talk"
-permalink: /talks/ICASSP2021
-venue: "ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
-date: 09 June 2021
-location: "Toronto, ON, Canada"
+permalink: /talks/Vlunch2022
+venue: "Visual Computing, School of Computer Science & Informatics, Cardiff University"
+date: 04 May 2022
+location: "Cardiff, UK"
 ---
-[Download PPT](http://wanlima-cardiff.github.io/files/posterICASSP.pdf)
+
