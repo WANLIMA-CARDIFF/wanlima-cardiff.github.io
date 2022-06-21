@@ -7,4 +7,5 @@ venue: "Visual Computing, School of Computer Science & Informatics, Cardiff Univ
 date: 04 May 2022
 location: "Cardiff, UK"
 ---
-
+Speaker: Wanli Ma
+Talk Title: Multi-modal Remote Sensing Image Fusion for Land Cover Mapping
