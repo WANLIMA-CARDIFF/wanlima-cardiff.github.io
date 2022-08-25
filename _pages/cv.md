@@ -18,7 +18,7 @@ Education
 
 Award And Honors
 ======
-PhD Full-scholarship of Cardiff University, Master with Distinction, Provincial Outstanding Graduate, Provincial Government Scholarship, Hexagon Scholarship, Excellent Student of China Jiliang University, Research And Innovation Scholarship
+PhD Full-scholarship, MSc with Distinction, Provincial Outstanding Graduate, Provincial Government Scholarship, Hexagon Scholarship, Excellent Student of China Jiliang University, Research And Innovation Scholarship
   
 Professional Experience
 ======
