@@ -3,7 +3,7 @@ title: "AMM-FuseNet: attention-based multi-modal image fusion network for land c
 collection: publications
 permalink: /publication/RemoteSensing2022
 excerpt: #''
-date:  7 September 2021
+date:  7 September 2022
 venue: 'Remote Sensing'
 paperurl: 'http://WANLIMA-CARDIFF.github.io/files/RemoteSensing2022.pdf'
 ---
