@@ -1,7 +1,7 @@
 ---
 title: "AMM-FuseNet: attention-based multi-modal image fusion network for land cover mapping"
 collection: publications
-permalink: /publication/RemoteSensing2021
+permalink: /publication/RemoteSensing2022
 excerpt: #''
 date:  7 September 2021
 venue: 'Remote Sensing'
