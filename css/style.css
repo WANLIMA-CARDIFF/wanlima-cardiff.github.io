@@ -1,0 +1,121 @@
+body {
+    position: relative;
+    background-color: #DDDDDD;
+    font-family: 'helvetica', sans-serif;
+    font-weight: lighter;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    min-width: 320px;
+}
+
+.list-social-icons a{color:#495057}
+.list-social-icons a:hover{color:#08837e}
+.list-social-icons a .fa-lg{font-size:1.75rem}
+.list-icons{font-size:3rem}
+.list-icons
+.list-inline-item i:hover{color:#A0A0FF}
+
+a {
+    font-weight: bold;
+    color: #06837e;
+    margin: 0;
+}
+a:hover {
+    color: #08837e;
+}
+a { font-weight: 500; }
+
+.list-inline {
+  padding-left: 0;
+  list-style: none;
+  margin-left: 0;
+}
+
+.list-inline-item {
+  display: inline-block;
+}
+
+/* Fix weird flickering in Safari */
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+h1 {
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+}
+.title {
+    text-align: center;
+    width: 90%;
+    margin: auto auto 20px;
+}
+.tagline {
+    font-style: italic;
+}
+.inline-footnote {
+    margin: auto;
+    display: none;
+}
+.title h1 {
+    margin-bottom: 20px;
+}
+.title p {
+    margin-bottom: 1px;
+}
+h2 {
+    font-weight: lighter;
+    color: #555555;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+
+.page-container {
+    position: relative;
+    width: 100%;
+    margin: 50px 0;
+}
+.page-container .inner {
+    position: relative;
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px 30px;
+    background-color: #FFF;
+}
+
+@media (max-width: 600px){
+    .fasmaller {
+        ai:fa-4x
+    }
+}
+
+.citation {
+  white-space: pre-wrap;
+  padding: 1em;
+  word-wrap: break-word;
+  overflow: auto;
+  background: solid;
+  background-color: #f0f0f0;
+
+}
+
+h5 {color: #555;
+}
+
+
+.news-scroll {
+  max-height: 200px;  /* 你可以根据需要调整高度 */
+  overflow-y: auto;
+  padding-right: 10px; /* 防止滚动条覆盖内容 */
+}
